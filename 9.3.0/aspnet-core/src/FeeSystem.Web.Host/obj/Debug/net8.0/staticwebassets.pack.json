@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/priyanshacharya/Downloads/FeeSystemCom/9.3.0/aspnet-core/src/FeeSystem.Web.Host/wwwroot/swagger/ui/abp.js",
+      "PackagePath": "staticwebassets/swagger/ui/abp.js"
+    },
+    {
+      "Id": "/Users/priyanshacharya/Downloads/FeeSystemCom/9.3.0/aspnet-core/src/FeeSystem.Web.Host/wwwroot/swagger/ui/abp.swagger.js",
+      "PackagePath": "staticwebassets/swagger/ui/abp.swagger.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FeeSystem.Web.Host.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FeeSystem.Web.Host.props",
+      "PackagePath": "build\\FeeSystem.Web.Host.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FeeSystem.Web.Host.props",
+      "PackagePath": "buildMultiTargeting\\FeeSystem.Web.Host.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FeeSystem.Web.Host.props",
+      "PackagePath": "buildTransitive\\FeeSystem.Web.Host.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

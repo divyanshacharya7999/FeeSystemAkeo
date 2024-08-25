@@ -1,0 +1,1491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\students\\studentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\students\\studentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.entityframeworkcore\\entityframeworkcore\\feesystementityframeworkmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|solutionrelative:src\\feesystem.entityframeworkcore\\entityframeworkcore\\feesystementityframeworkmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.entityframeworkcore\\entityframeworkcore\\feesystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|solutionrelative:src\\feesystem.entityframeworkcore\\entityframeworkcore\\feesystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\students\\studentmapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\students\\studentmapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\students\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\students\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\students\\dto\\createupdateclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\students\\dto\\createupdateclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\controllers\\tokenauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\controllers\\tokenauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\authentication\\jwtbearer\\jwttokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\authentication\\jwtbearer\\jwttokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\students\\istudentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\students\\istudentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\feeappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\feeappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\models\\tokenauth\\authenticatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\models\\tokenauth\\authenticatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\models\\tokenauth\\authenticateresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\models\\tokenauth\\authenticateresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\authentication\\jwtbearer\\tokenauthconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\authentication\\jwtbearer\\tokenauthconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\authentication\\external\\iexternalauthproviderapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\authentication\\external\\iexternalauthproviderapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\authentication\\external\\iexternalauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\authentication\\external\\iexternalauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\authentication\\external\\iexternalauthconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\authentication\\external\\iexternalauthconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\authentication\\external\\externalauthuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\authentication\\external\\externalauthuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\authentication\\external\\externalauthproviderapibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\authentication\\external\\externalauthproviderapibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\authentication\\external\\externalauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\authentication\\external\\externalauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\authentication\\external\\externalauthconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\authentication\\external\\externalauthconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\authorization\\feesystemauthorizationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\authorization\\feesystemauthorizationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\domain\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\domain\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820100947_Adding Tenancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820100947_Adding Tenancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\feesystemcoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\feesystemcoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\domain\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\domain\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\domain\\feetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\domain\\feetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\domain\\paymentplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\domain\\paymentplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\domain\\studentfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\domain\\studentfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\multitenancy\\tenantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\multitenancy\\tenantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\multitenancy\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\multitenancy\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\FeeSystem.Web.Host\\FeeSystem.Web.Host.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.host\\startup\\authconfigurer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\FeeSystem.Web.Host\\FeeSystem.Web.Host.csproj|solutionrelative:src\\feesystem.web.host\\startup\\authconfigurer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820084433_Changing Back to Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820084433_Changing Back to Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880B3591-E057-46FE-B525-10BD83828B93}|src\\FeeSystem.Migrator\\FeeSystem.Migrator.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.migrator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880B3591-E057-46FE-B525-10BD83828B93}|src\\FeeSystem.Migrator\\FeeSystem.Migrator.csproj|solutionrelative:src\\feesystem.migrator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880B3591-E057-46FE-B525-10BD83828B93}|src\\FeeSystem.Migrator\\FeeSystem.Migrator.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.migrator\\multitenantmigrateexecuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880B3591-E057-46FE-B525-10BD83828B93}|src\\FeeSystem.Migrator\\FeeSystem.Migrator.csproj|solutionrelative:src\\feesystem.migrator\\multitenantmigrateexecuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880B3591-E057-46FE-B525-10BD83828B93}|src\\FeeSystem.Migrator\\FeeSystem.Migrator.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.migrator\\feesystemmigratormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880B3591-E057-46FE-B525-10BD83828B93}|src\\FeeSystem.Migrator\\FeeSystem.Migrator.csproj|solutionrelative:src\\feesystem.migrator\\feesystemmigratormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\FeeSystem.Web.Host\\FeeSystem.Web.Host.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.host\\startup\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\FeeSystem.Web.Host\\FeeSystem.Web.Host.csproj|solutionrelative:src\\feesystem.web.host\\startup\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\FeeSystem.Web.Host\\FeeSystem.Web.Host.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.host\\startup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\FeeSystem.Web.Host\\FeeSystem.Web.Host.csproj|solutionrelative:src\\feesystem.web.host\\startup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\FeeSystem.Web.Host\\FeeSystem.Web.Host.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.host\\startup\\feesystemwebhostmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\FeeSystem.Web.Host\\FeeSystem.Web.Host.csproj|solutionrelative:src\\feesystem.web.host\\startup\\feesystemwebhostmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.entityframeworkcore\\entityframeworkcore\\repositories\\feesystemrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|solutionrelative:src\\feesystem.entityframeworkcore\\entityframeworkcore\\repositories\\feesystemrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\feesystemappservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\feesystemappservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\feesystemapplicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\feesystemapplicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\feesystemconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\feesystemconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.entityframeworkcore\\entityframeworkcore\\feesystemdbcontextconfigurer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|solutionrelative:src\\feesystem.entityframeworkcore\\entityframeworkcore\\feesystemdbcontextconfigurer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.entityframeworkcore\\entityframeworkcore\\feesystemdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|solutionrelative:src\\feesystem.entityframeworkcore\\entityframeworkcore\\feesystemdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820083756_Changing Back to FullAudited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820083756_Changing Back to FullAudited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\feesystemwebcoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\feesystemwebcoremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\students\\dto\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\students\\dto\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.entityframeworkcore\\entityframeworkcore\\abpzerodbmigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|solutionrelative:src\\feesystem.entityframeworkcore\\entityframeworkcore\\abpzerodbmigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\students\\dto\\studentfeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\students\\dto\\studentfeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\feemapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\feemapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\dto\\createorupdatefeeinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\dto\\createorupdatefeeinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\dto\\createpaymentplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\dto\\createpaymentplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\dto\\updatepaymentplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\dto\\updatepaymentplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\students\\dto\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\students\\dto\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880B3591-E057-46FE-B525-10BD83828B93}|src\\FeeSystem.Migrator\\FeeSystem.Migrator.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.migrator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{880B3591-E057-46FE-B525-10BD83828B93}|src\\FeeSystem.Migrator\\FeeSystem.Migrator.csproj|solutionrelative:src\\feesystem.migrator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\FeeSystem.Web.Host\\FeeSystem.Web.Host.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38E184BD-E874-4633-A947-AED4FDB73F40}|src\\FeeSystem.Web.Host\\FeeSystem.Web.Host.csproj|solutionrelative:src\\feesystem.web.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814090530_sixth Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814090530_sixth Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814045638_fifth Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814045638_fifth Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041910_fourth Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041910_fourth Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041735_Third Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041735_Third Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041404_Second Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041404_Second Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\dto\\paymentplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\dto\\paymentplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\dto\\feetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\dto\\feetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\dto\\updatefeetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\dto\\updatefeetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\dto\\feedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\dto\\feedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\dto\\createfeetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\dto\\createfeetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\fees\\ifeeappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\fees\\ifeeappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\roles\\roleappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\roles\\roleappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\authorization\\accounts\\accountappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\authorization\\accounts\\accountappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.web.core\\controllers\\feesystemcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CFE0D2-8DCA-42D7-AD7D-784C3862493F}|src\\FeeSystem.Web.Core\\FeeSystem.Web.Core.csproj|solutionrelative:src\\feesystem.web.core\\controllers\\feesystemcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\multitenancy\\tenantappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\multitenancy\\tenantappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\sessions\\sessionappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\sessions\\sessionappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\users\\iuserappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\users\\iuserappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\registrar\\registerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\registrar\\registerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\users\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\users\\userappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\authorization\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\authorization\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.application\\roles\\iroleappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3870C648-4AEA-4B85-BA3F-F2F63B96136A}|src\\FeeSystem.Application\\FeeSystem.Application.csproj|solutionrelative:src\\feesystem.application\\roles\\iroleappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\authorization\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\authorization\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809113047_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809113047_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809112535_Third Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809112535_Third Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809111541_Second Mogration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809111541_Second Mogration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809110250_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809110250_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.core\\feesystem.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FA75A5B-AB83-4FD0-B545-279774C01E87}|src\\FeeSystem.Core\\FeeSystem.Core.csproj|solutionrelative:src\\feesystem.core\\feesystem.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.entityframeworkcore\\migrations\\20240820072859_again.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|solutionrelative:src\\feesystem.entityframeworkcore\\migrations\\20240820072859_again.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.entityframeworkcore\\migrations\\20240820052700_changing auditedentity type to entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|solutionrelative:src\\feesystem.entityframeworkcore\\migrations\\20240820052700_changing auditedentity type to entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.entityframeworkcore\\migrations\\20240814104447_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|solutionrelative:src\\feesystem.entityframeworkcore\\migrations\\20240814104447_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|c:\\users\\obaid\\downloads\\feesystem\\9.3.0\\aspnet-core\\src\\feesystem.entityframeworkcore\\migrations\\20240814101233_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}|src\\FeeSystem.EntityFrameworkCore\\FeeSystem.EntityFrameworkCore.csproj|solutionrelative:src\\feesystem.entityframeworkcore\\migrations\\20240814101233_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Controllers\\TokenAuthController.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Controllers\\TokenAuthController.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Controllers\\TokenAuthController.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Controllers\\TokenAuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:38:44.747Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\StudentAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Students\\StudentAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\StudentAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Students\\StudentAppService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwGkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:05:40.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\Dto\\StudentDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Students\\Dto\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\Dto\\StudentDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Students\\Dto\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:36:17.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentMapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\StudentMapProfile.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Students\\StudentMapProfile.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\StudentMapProfile.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Students\\StudentMapProfile.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:40:55.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeeSystemEntityFrameworkModule.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemEntityFrameworkModule.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemEntityFrameworkModule.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemEntityFrameworkModule.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemEntityFrameworkModule.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:04:41.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeeSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContext.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContext.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:09:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUpdateClassDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\Dto\\CreateUpdateClassDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Students\\Dto\\CreateUpdateClassDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\Dto\\CreateUpdateClassDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Students\\Dto\\CreateUpdateClassDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:10:37.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtTokenMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\JwtBearer\\JwtTokenMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Authentication\\JwtBearer\\JwtTokenMiddleware.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\JwtBearer\\JwtTokenMiddleware.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Authentication\\JwtBearer\\JwtTokenMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:38:10.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\IStudentAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Students\\IStudentAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\IStudentAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Students\\IStudentAppService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:03:44.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FeeAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\FeeAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\FeeAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\FeeAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\FeeAppService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:55:05.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticateModel.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Models\\TokenAuth\\AuthenticateModel.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Models\\TokenAuth\\AuthenticateModel.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Models\\TokenAuth\\AuthenticateModel.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Models\\TokenAuth\\AuthenticateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:13:31.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticateResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Models\\TokenAuth\\AuthenticateResultModel.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Models\\TokenAuth\\AuthenticateResultModel.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Models\\TokenAuth\\AuthenticateResultModel.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Models\\TokenAuth\\AuthenticateResultModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:13:54.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenAuthConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\JwtBearer\\TokenAuthConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Authentication\\JwtBearer\\TokenAuthConfiguration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\JwtBearer\\TokenAuthConfiguration.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Authentication\\JwtBearer\\TokenAuthConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:13:24.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IExternalAuthProviderApi.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthProviderApi.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthProviderApi.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthProviderApi.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthProviderApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:13:23.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IExternalAuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthManager.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthManager.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:13:22.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IExternalAuthConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthConfiguration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthConfiguration.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Authentication\\External\\IExternalAuthConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:13:21.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExternalAuthUserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthUserInfo.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthUserInfo.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthUserInfo.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthUserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:13:16.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExternalAuthProviderApiBase.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthProviderApiBase.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthProviderApiBase.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthProviderApiBase.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthProviderApiBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:13:14.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExternalAuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthManager.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthManager.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:13:07.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExternalAuthConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthConfiguration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthConfiguration.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Authentication\\External\\ExternalAuthConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:13:06.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TenantManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\MultiTenancy\\TenantManager.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\MultiTenancy\\TenantManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\MultiTenancy\\TenantManager.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\MultiTenancy\\TenantManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:58:37.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Fee.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\Fee.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\Domain\\Fee.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\Fee.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\Domain\\Fee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:06:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentPlan.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\PaymentPlan.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\Domain\\PaymentPlan.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\PaymentPlan.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\Domain\\PaymentPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:07:53.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\Student.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\Student.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\Domain\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:08:03.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\Class.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\Domain\\Class.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\Class.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\Domain\\Class.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:06:34.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FeeType.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\FeeType.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\Domain\\FeeType.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\FeeType.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\Domain\\FeeType.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:07:19.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentFee.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\StudentFee.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\Domain\\StudentFee.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\StudentFee.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\Domain\\StudentFee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:08:19.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FeeSystemAuthorizationProvider.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Authorization\\FeeSystemAuthorizationProvider.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\Authorization\\FeeSystemAuthorizationProvider.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Authorization\\FeeSystemAuthorizationProvider.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\Authorization\\FeeSystemAuthorizationProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:40:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240820100947_Adding Tenancy.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820100947_Adding Tenancy.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820100947_Adding Tenancy.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820100947_Adding Tenancy.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820100947_Adding Tenancy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:09:47.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\Payment.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\Domain\\Payment.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Domain\\Payment.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\Domain\\Payment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:07:30.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FeeSystemCoreModule.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\FeeSystemCoreModule.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\FeeSystemCoreModule.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\FeeSystemCoreModule.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\FeeSystemCoreModule.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:39:00.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\MultiTenancy\\Tenant.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\MultiTenancy\\Tenant.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\MultiTenancy\\Tenant.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\MultiTenancy\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:58:34.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthConfigurer.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Host\\Startup\\AuthConfigurer.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Host\\Startup\\AuthConfigurer.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Host\\Startup\\AuthConfigurer.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Host\\Startup\\AuthConfigurer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:41:36.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240820084433_Changing Back to Entity.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820084433_Changing Back to Entity.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820084433_Changing Back to Entity.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820084433_Changing Back to Entity.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820084433_Changing Back to Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:44:33.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Migrator\\Program.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Migrator\\Program.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Migrator\\Program.cs",
+              "RelativeToolTip": "src\\FeeSystem.Migrator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:42:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MultiTenantMigrateExecuter.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Migrator\\MultiTenantMigrateExecuter.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Migrator\\MultiTenantMigrateExecuter.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Migrator\\MultiTenantMigrateExecuter.cs",
+              "RelativeToolTip": "src\\FeeSystem.Migrator\\MultiTenantMigrateExecuter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:42:02.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FeeSystemMigratorModule.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Migrator\\FeeSystemMigratorModule.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Migrator\\FeeSystemMigratorModule.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Migrator\\FeeSystemMigratorModule.cs",
+              "RelativeToolTip": "src\\FeeSystem.Migrator\\FeeSystemMigratorModule.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:41:59.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FeeSystemRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\Repositories\\FeeSystemRepositoryBase.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\Repositories\\FeeSystemRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\Repositories\\FeeSystemRepositoryBase.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\Repositories\\FeeSystemRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:41:14.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FeeSystemAppServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\FeeSystemAppServiceBase.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\FeeSystemAppServiceBase.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\FeeSystemAppServiceBase.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\FeeSystemAppServiceBase.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:40:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FeeSystemWebHostModule.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Host\\Startup\\FeeSystemWebHostModule.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Host\\Startup\\FeeSystemWebHostModule.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Host\\Startup\\FeeSystemWebHostModule.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Host\\Startup\\FeeSystemWebHostModule.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:38:52.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Host\\Startup\\Program.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Host\\Startup\\Program.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Host\\Startup\\Program.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Host\\Startup\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:53:33.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Host\\Startup\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Host\\Startup\\Startup.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Host\\Startup\\Startup.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Host\\Startup\\Startup.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwGAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:53:38.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FeeSystemDbContextConfigurer.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContextConfigurer.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContextConfigurer.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContextConfigurer.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContextConfigurer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:16:23.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FeeSystemApplicationModule.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\FeeSystemApplicationModule.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\FeeSystemApplicationModule.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\FeeSystemApplicationModule.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\FeeSystemApplicationModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:04:46.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FeeSystemDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContextFactory.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\FeeSystemDbContextFactory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:04:36.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FeeSystemConsts.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\FeeSystemConsts.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\FeeSystemConsts.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\FeeSystemConsts.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\FeeSystemConsts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:39:13.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240820083756_Changing Back to FullAudited.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820083756_Changing Back to FullAudited.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820083756_Changing Back to FullAudited.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820083756_Changing Back to FullAudited.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820083756_Changing Back to FullAudited.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:37:56.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FeeSystemWebCoreModule.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\FeeSystemWebCoreModule.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\FeeSystemWebCoreModule.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\FeeSystemWebCoreModule.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\FeeSystemWebCoreModule.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwCoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:34:56.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ClassDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\Dto\\ClassDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Students\\Dto\\ClassDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\Dto\\ClassDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Students\\Dto\\ClassDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:10:09.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20240820072859_Again.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820072859_Again.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820072859_Again.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820072859_Again.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820072859_Again.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:28:59.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AbpZeroDbMigrator.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\AbpZeroDbMigrator.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\AbpZeroDbMigrator.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\AbpZeroDbMigrator.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\EntityFrameworkCore\\AbpZeroDbMigrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:13:31.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20240820052700_Changing auditedentity type to entity.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820052700_Changing auditedentity type to entity.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820052700_Changing auditedentity type to entity.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820052700_Changing auditedentity type to entity.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240820052700_Changing auditedentity type to entity.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:27:00.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StudentFeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\Dto\\StudentFeeDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Students\\Dto\\StudentFeeDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\Dto\\StudentFeeDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Students\\Dto\\StudentFeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:42:27.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FeeMapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\FeeMapProfile.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\FeeMapProfile.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\FeeMapProfile.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\FeeMapProfile.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:20:29.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreatePaymentPlanDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\CreatePaymentPlanDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\Dto\\CreatePaymentPlanDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\CreatePaymentPlanDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\Dto\\CreatePaymentPlanDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:53:58.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateorUpdateFeeInput.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\CreateorUpdateFeeInput.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\Dto\\CreateorUpdateFeeInput.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\CreateorUpdateFeeInput.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\Dto\\CreateorUpdateFeeInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:02:45.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20240814104447_Second Migration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814104447_Second Migration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814104447_Second Migration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814104447_Second Migration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814104447_Second Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:44:47.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UpdatePaymentPlanDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\UpdatePaymentPlanDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\Dto\\UpdatePaymentPlanDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\UpdatePaymentPlanDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\Dto\\UpdatePaymentPlanDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:53:48.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\Dto\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Students\\Dto\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Students\\Dto\\CreateStudentDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Students\\Dto\\CreateStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:37:05.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20240814101233_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814101233_Initial Migration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814101233_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814101233_Initial Migration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814101233_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:12:33.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Host\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Host\\appsettings.json",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Host\\appsettings.json",
+              "RelativeToolTip": "src\\FeeSystem.Web.Host\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T09:38:06.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Migrator\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Migrator\\appsettings.json",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Migrator\\appsettings.json",
+              "RelativeToolTip": "src\\FeeSystem.Migrator\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T09:38:56.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240814090530_sixth Migration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814090530_sixth Migration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814090530_sixth Migration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814090530_sixth Migration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814090530_sixth Migration.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:05:30.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240814045638_fifth Migration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814045638_fifth Migration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814045638_fifth Migration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814045638_fifth Migration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814045638_fifth Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:56:39.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240814041910_fourth Migration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041910_fourth Migration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041910_fourth Migration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041910_fourth Migration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041910_fourth Migration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:19:10.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CreateFeeTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\CreateFeeTypeDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\Dto\\CreateFeeTypeDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\CreateFeeTypeDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\Dto\\CreateFeeTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:51:51.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240814041404_Second Migration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041404_Second Migration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041404_Second Migration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041404_Second Migration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041404_Second Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:14:04.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240814041735_Third Migration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041735_Third Migration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041735_Third Migration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041735_Third Migration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240814041735_Third Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:17:35.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PaymentPlanDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\PaymentPlanDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\Dto\\PaymentPlanDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\PaymentPlanDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\Dto\\PaymentPlanDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:58:59.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UpdateFeeTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\UpdateFeeTypeDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\Dto\\UpdateFeeTypeDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\UpdateFeeTypeDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\Dto\\UpdateFeeTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:51:32.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FeeTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\FeeTypeDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\Dto\\FeeTypeDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\FeeTypeDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\Dto\\FeeTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:58:38.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IFeeAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\IFeeAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\IFeeAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\IFeeAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\IFeeAppService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:54:40.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RoleAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Roles\\RoleAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Roles\\RoleAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Roles\\RoleAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Roles\\RoleAppService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:55:58.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\FeeDto.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Fees\\Dto\\FeeDto.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Fees\\Dto\\FeeDto.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Fees\\Dto\\FeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:01:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AccountAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Authorization\\Accounts\\AccountAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Authorization\\Accounts\\AccountAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Authorization\\Accounts\\AccountAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Authorization\\Accounts\\AccountAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:52:43.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FeeSystemControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Controllers\\FeeSystemControllerBase.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Web.Core\\Controllers\\FeeSystemControllerBase.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Web.Core\\Controllers\\FeeSystemControllerBase.cs",
+              "RelativeToolTip": "src\\FeeSystem.Web.Core\\Controllers\\FeeSystemControllerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:28:25.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "TenantAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\MultiTenancy\\TenantAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\MultiTenancy\\TenantAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\MultiTenancy\\TenantAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\MultiTenancy\\TenantAppService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:02:38.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IUserAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Users\\IUserAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Users\\IUserAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Users\\IUserAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Users\\IUserAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:01:55.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RegisterAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Registrar\\RegisterAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Registrar\\RegisterAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Registrar\\RegisterAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Registrar\\RegisterAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:01:49.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "SessionAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Sessions\\SessionAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Sessions\\SessionAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Sessions\\SessionAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Sessions\\SessionAppService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:52:54.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Authorization\\LoginManager.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\Authorization\\LoginManager.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Authorization\\LoginManager.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\Authorization\\LoginManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:16:06.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "UserAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Users\\UserAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Users\\UserAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Users\\UserAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Users\\UserAppService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:55:26.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IRoleAppService.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Roles\\IRoleAppService.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Application\\Roles\\IRoleAppService.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Application\\Roles\\IRoleAppService.cs",
+              "RelativeToolTip": "src\\FeeSystem.Application\\Roles\\IRoleAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:55:52.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Authorization\\Users\\User.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\Authorization\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\Authorization\\Users\\User.cs",
+              "RelativeToolTip": "src\\FeeSystem.Core\\Authorization\\Users\\User.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:55:05.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20240809113047_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809113047_Initial Migration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809113047_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809113047_Initial Migration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809113047_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:30:47.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20240809112535_Third Migration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809112535_Third Migration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809112535_Third Migration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809112535_Third Migration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809112535_Third Migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:25:35.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20240809111541_Second Mogration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809111541_Second Mogration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809111541_Second Mogration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809111541_Second Mogration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809111541_Second Mogration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:15:41.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20240809110250_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809110250_Initial Migration.cs",
+              "RelativeDocumentMoniker": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809110250_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809110250_Initial Migration.cs",
+              "RelativeToolTip": "src\\FeeSystem.EntityFrameworkCore\\Migrations\\20240809110250_Initial Migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:02:50.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "FeeSystem.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\FeeSystem.Core.csproj",
+              "RelativeDocumentMoniker": "src\\FeeSystem.Core\\FeeSystem.Core.csproj",
+              "ToolTip": "C:\\Users\\obaid\\Downloads\\FeeSystem\\9.3.0\\aspnet-core\\src\\FeeSystem.Core\\FeeSystem.Core.csproj",
+              "RelativeToolTip": "src\\FeeSystem.Core\\FeeSystem.Core.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T09:40:34.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

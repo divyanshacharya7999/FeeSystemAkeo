@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/FeeSystem.Web.Host.props" />
+</Project>

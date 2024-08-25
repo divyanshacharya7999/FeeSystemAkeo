@@ -1,0 +1,34 @@
+<div class="container py-4 px-3">
+    <div class="bg-white rounded-lg shadow-sm p-4">
+      <div class="d-flex align-items-center justify-content-between mb-4">
+        <h1 class="h4 font-weight-bold">Payment Details</h1>
+      </div>
+      <div class="table-responsive">
+        <table class="table table-bordered">
+            <thead>
+                <th class="font-weight-bold">Payment ID</th>
+                <th class="font-weight-bold">Student ID</th>
+                <th class="font-weight-bold">Class Number</th>
+                <th class="font-weight-bold">Fee ID</th>
+                <th class="font-weight-bold">Discount</th>
+                <th class="font-weight-bold">Amount Paid</th>
+                <th class="font-weight-bold">Payment Date</th>
+                <th class="font-weight-bold">Payment Method</th>
+            </thead>
+          <tbody>
+            <tr> <!-- *ngFor="let model of model" -->
+              <td class="text-muted">PID-123456{{model.paymentId}}</td>
+              <td class="text-muted">STD-987654{{model.studentId}}</td>
+              <td class="text-muted">MATH-101{{model.classname}}</td>
+              <td class="text-muted">FEE-456789{{model.feeId}}</td>
+              <td class="text-muted">2500{{model.discount}}</td>
+              <td class="text-muted">2750{{model.amount}}</td>
+              <td class="text-muted">12-08-2024{{model.paymentdate}}</td>
+              <td class="text-muted">Credit Card{{model.method}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  

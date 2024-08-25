@@ -1,0 +1,1258 @@
+[
+  {
+    "ContainingType": "FeeSystem.Authorization.Accounts.AccountAppService",
+    "Method": "IsTenantAvailable",
+    "RelativePath": "api/services/app/Account/IsTenantAvailable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Authorization.Accounts.Dto.IsTenantAvailableInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Authorization.Accounts.Dto.IsTenantAvailableOutput",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Authorization.Accounts.AccountAppService",
+    "Method": "Register",
+    "RelativePath": "api/services/app/Account/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Authorization.Accounts.Dto.RegisterInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Authorization.Accounts.Dto.RegisterOutput",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Configuration.ConfigurationAppService",
+    "Method": "ChangeUiTheme",
+    "RelativePath": "api/services/app/Configuration/ChangeUiTheme",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Configuration.Dto.ChangeUiThemeInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Fees.FeeAppService",
+    "Method": "CreateFeeType",
+    "RelativePath": "api/services/app/Fee/CreateFeeType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Fees.Dto.CreateFeeTypeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Fees.Dto.FeeTypeDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Fees.FeeAppService",
+    "Method": "CreateOrUpdateAsync",
+    "RelativePath": "api/services/app/Fee/CreateOrUpdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Fees.Dto.CreateOrUpdateFeeInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Fees.FeeAppService",
+    "Method": "CreatePaymentPlan",
+    "RelativePath": "api/services/app/Fee/CreatePaymentPlan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Fees.Dto.CreatePaymentPlanDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Fees.Dto.PaymentPlanDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Fees.FeeAppService",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/services/app/Fee/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Fees.FeeAppService",
+    "Method": "DeleteFeeType",
+    "RelativePath": "api/services/app/Fee/DeleteFeeType",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Fees.FeeAppService",
+    "Method": "DeletePaymentPlan",
+    "RelativePath": "api/services/app/Fee/DeletePaymentPlan",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Fees.FeeAppService",
+    "Method": "GetAsync",
+    "RelativePath": "api/services/app/Fee/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Fees.Dto.FeeDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Fees.FeeAppService",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/services/app/Fee/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Abp.Application.Services.Dto.ListResultDto\u00601[[FeeSystem.Fees.Dto.FeeDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Fees.FeeAppService",
+    "Method": "UpdateFeeType",
+    "RelativePath": "api/services/app/Fee/UpdateFeeType",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Fees.Dto.UpdateFeeTypeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Fees.FeeAppService",
+    "Method": "UpdatePaymentPlan",
+    "RelativePath": "api/services/app/Fee/UpdatePaymentPlan",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Fees.Dto.UpdatePaymentPlanDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Roles.RoleAppService",
+    "Method": "CreateAsync",
+    "RelativePath": "api/services/app/Role/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Roles.Dto.CreateRoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Roles.Dto.RoleDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Roles.RoleAppService",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/services/app/Role/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Abp.Application.Services.AsyncCrudAppService\u00608[[FeeSystem.Authorization.Roles.Role, FeeSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Roles.Dto.RoleDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[FeeSystem.Roles.Dto.PagedRoleResultRequestDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Roles.Dto.CreateRoleDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Roles.Dto.RoleDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAsync",
+    "RelativePath": "api/services/app/Role/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Roles.Dto.RoleDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Abp.Application.Services.AsyncCrudAppService\u00608[[FeeSystem.Authorization.Roles.Role, FeeSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Roles.Dto.RoleDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[FeeSystem.Roles.Dto.PagedRoleResultRequestDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Roles.Dto.CreateRoleDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Roles.Dto.RoleDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/services/app/Role/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SkipCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "MaxResultCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Abp.Application.Services.Dto.PagedResultDto\u00601[[FeeSystem.Roles.Dto.RoleDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Roles.RoleAppService",
+    "Method": "GetAllPermissions",
+    "RelativePath": "api/services/app/Role/GetAllPermissions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Abp.Application.Services.Dto.ListResultDto\u00601[[FeeSystem.Roles.Dto.PermissionDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Roles.RoleAppService",
+    "Method": "GetRoleForEdit",
+    "RelativePath": "api/services/app/Role/GetRoleForEdit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Roles.Dto.GetRoleForEditOutput",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Roles.RoleAppService",
+    "Method": "GetRolesAsync",
+    "RelativePath": "api/services/app/Role/GetRoles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Permission",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Abp.Application.Services.Dto.ListResultDto\u00601[[FeeSystem.Roles.Dto.RoleListDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Roles.RoleAppService",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/services/app/Role/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Roles.Dto.RoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Roles.Dto.RoleDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Sessions.SessionAppService",
+    "Method": "GetCurrentLoginInformations",
+    "RelativePath": "api/services/app/Session/GetCurrentLoginInformations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Sessions.Dto.GetCurrentLoginInformationsOutput",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "CreateOrUpdateClassAsync",
+    "RelativePath": "api/services/app/Student/CreateOrUpdateClass",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Students.Dto.CreateUpdateClassDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "CreateStudent",
+    "RelativePath": "api/services/app/Student/CreateStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Students.Dto.CreateStudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Students.Dto.StudentDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "DeleteClassAsync",
+    "RelativePath": "api/services/app/Student/DeleteClass",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/services/app/Student/DeleteStudent",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "GetAllClassesAsync",
+    "RelativePath": "api/services/app/Student/GetAllClasses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[FeeSystem.Students.Dto.ClassDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/services/app/Student/GetAllStudents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[FeeSystem.Students.Dto.StudentDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "GetClassAsync",
+    "RelativePath": "api/services/app/Student/GetClass",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Students.Dto.ClassDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "GetFeesForStudent",
+    "RelativePath": "api/services/app/Student/GetFeesForStudent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[FeeSystem.Students.Dto.StudentFeeDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "GetStudentById",
+    "RelativePath": "api/services/app/Student/GetStudentById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Students.Dto.StudentDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "PayFee",
+    "RelativePath": "api/services/app/Student/PayFee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "feeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "amountPaid",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "paymentMethod",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "discount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Students.StudentAppService",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/services/app/Student/UpdateStudent",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Students.Dto.StudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Students.Dto.StudentDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.MultiTenancy.TenantAppService",
+    "Method": "CreateAsync",
+    "RelativePath": "api/services/app/Tenant/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.MultiTenancy.Dto.CreateTenantDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.MultiTenancy.Dto.TenantDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.MultiTenancy.TenantAppService",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/services/app/Tenant/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Abp.Application.Services.AsyncCrudAppService\u00608[[FeeSystem.MultiTenancy.Tenant, FeeSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.MultiTenancy.Dto.TenantDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[FeeSystem.MultiTenancy.Dto.PagedTenantResultRequestDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.MultiTenancy.Dto.CreateTenantDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.MultiTenancy.Dto.TenantDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAsync",
+    "RelativePath": "api/services/app/Tenant/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.MultiTenancy.Dto.TenantDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Abp.Application.Services.AsyncCrudAppService\u00608[[FeeSystem.MultiTenancy.Tenant, FeeSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.MultiTenancy.Dto.TenantDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[FeeSystem.MultiTenancy.Dto.PagedTenantResultRequestDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.MultiTenancy.Dto.CreateTenantDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.MultiTenancy.Dto.TenantDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/services/app/Tenant/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsActive",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "SkipCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "MaxResultCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Abp.Application.Services.Dto.PagedResultDto\u00601[[FeeSystem.MultiTenancy.Dto.TenantDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Abp.Application.Services.AsyncCrudAppService\u00608[[FeeSystem.MultiTenancy.Tenant, FeeSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.MultiTenancy.Dto.TenantDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[FeeSystem.MultiTenancy.Dto.PagedTenantResultRequestDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.MultiTenancy.Dto.CreateTenantDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.MultiTenancy.Dto.TenantDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/services/app/Tenant/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.MultiTenancy.Dto.TenantDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.MultiTenancy.Dto.TenantDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Users.UserAppService",
+    "Method": "Activate",
+    "RelativePath": "api/services/app/User/Activate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Abp.Application.Services.Dto.EntityDto\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Users.UserAppService",
+    "Method": "ChangeLanguage",
+    "RelativePath": "api/services/app/User/ChangeLanguage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Users.Dto.ChangeUserLanguageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Users.UserAppService",
+    "Method": "ChangePassword",
+    "RelativePath": "api/services/app/User/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Users.Dto.ChangePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Users.UserAppService",
+    "Method": "CreateAsync",
+    "RelativePath": "api/services/app/User/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Users.Dto.CreateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Users.Dto.UserDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Users.UserAppService",
+    "Method": "DeActivate",
+    "RelativePath": "api/services/app/User/DeActivate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Abp.Application.Services.Dto.EntityDto\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Users.UserAppService",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/services/app/User/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Abp.Application.Services.AsyncCrudAppService\u00608[[FeeSystem.Authorization.Users.User, FeeSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Users.Dto.UserDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[FeeSystem.Users.Dto.PagedUserResultRequestDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Users.Dto.CreateUserDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Users.Dto.UserDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAsync",
+    "RelativePath": "api/services/app/User/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Users.Dto.UserDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Abp.Application.Services.AsyncCrudAppService\u00608[[FeeSystem.Authorization.Users.User, FeeSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Users.Dto.UserDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[FeeSystem.Users.Dto.PagedUserResultRequestDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Users.Dto.CreateUserDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[FeeSystem.Users.Dto.UserDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null],[Abp.Application.Services.Dto.EntityDto\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/services/app/User/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsActive",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "SkipCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "MaxResultCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Abp.Application.Services.Dto.PagedResultDto\u00601[[FeeSystem.Users.Dto.UserDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Users.UserAppService",
+    "Method": "GetRoles",
+    "RelativePath": "api/services/app/User/GetRoles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Abp.Application.Services.Dto.ListResultDto\u00601[[FeeSystem.Roles.Dto.RoleDto, FeeSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Users.UserAppService",
+    "Method": "ResetPassword",
+    "RelativePath": "api/services/app/User/ResetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Users.Dto.ResetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Users.UserAppService",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/services/app/User/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "FeeSystem.Users.Dto.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Users.Dto.UserDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeSystem.Controllers.TokenAuthController",
+    "Method": "Authenticate",
+    "RelativePath": "api/TokenAuth/Authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "FeeSystem.Models.TokenAuth.AuthenticateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeSystem.Models.TokenAuth.AuthenticateResultModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

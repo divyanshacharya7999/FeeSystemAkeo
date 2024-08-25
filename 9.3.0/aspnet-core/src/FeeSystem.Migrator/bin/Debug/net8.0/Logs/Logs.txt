@@ -1,0 +1,19 @@
+﻿DEBUG 2024-08-20 22:24:21,572 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2024-08-20 22:24:21,586 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2024-08-20 22:24:21,680 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: FeeSystem.Migrator.FeeSystemMigratorModule, FeeSystem.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2024-08-20 22:24:21,682 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: FeeSystem.EntityFrameworkCore.FeeSystemEntityFrameworkModule, FeeSystem.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2024-08-20 22:24:21,682 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: FeeSystem.FeeSystemCoreModule, FeeSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2024-08-20 22:24:21,682 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2024-08-20 22:24:21,682 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2024-08-20 22:24:21,682 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2024-08-20 22:24:21,682 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2024-08-20 22:24:21,683 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2024-08-20 22:24:21,683 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2024-08-20 22:24:21,683 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2024-08-20 22:24:21,824 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: FeeSystem.EntityFrameworkCore.FeeSystemDbContext, FeeSystem.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2024-08-20 22:24:21,996 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2024-08-20 22:24:22,007 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2024-08-20 22:24:22,011 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2024-08-20 22:24:22,014 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: FeeSystem
+INFO  2024-08-20 22:24:22,039 [1    ] FeeSystem.Migrator.Log                   - Host database: data source=OBAID;initial catalog=FeeSystem2;integrated security=True;encrypt=False;trust server certificate=True
+INFO  2024-08-20 22:24:22,039 [1    ] FeeSystem.Migrator.Log                   - Continue to migration for this host database and all tenants..? (Y/N): 

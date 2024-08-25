@@ -1,0 +1,84 @@
+<body class="bg-light">
+    <div class="min-h-screen py-5">
+        <div class="container">
+          <div class="d-flex align-items-center justify-content-between mb-4">
+        <h3 class="p-md-5">Hello! Student<br> Student Id : {{model[0].studentId}}</h3>
+        <div>
+          <button type="button" class="btn btn-primary m-2" data-bs-toggle="modal" data-bs-target="#updatefeetype1Modal">
+            Add Discount And Additional Fees
+            </button>
+        </div>
+       </div>
+      <main class="bg-white shadow-sm rounded p-4 p-md-5">
+        <h2 class="fs-4 fw-bold mb-3">Fees</h2>
+        <div class="table-responsive">
+          <table class="table">
+            <thead>
+              <tr class="bg-light">
+                <th scope="col" >Fee Heading</th>
+                <th scope="col" class="text-end">Total Amount</th>
+                <th scope="col" class="text-end"> Payment Plan</th>
+                <th scope="col" class="text-end"> Additional Fee</th>
+                <th scope="col" class="text-end"> Discount</th>
+                <th scope="col" class="text-end">Updated Total Amount</th>
+                <th scope="col" class="text-end">Amount To Be Paid</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let model of model"> <!--  -->
+                <td >{{model.feeHeading}}</td>
+                <td class="text-end">{{model.totalAmount}}</td>
+                <td class="text-end">{{model.paymentPlanName}}</td>
+                <td class="text-end">{{model.additionalFee}}</td>
+                <td class="text-end">{{model.discount}}</td>
+                <td class="text-end">{{model.updatedTotalAmount}}</td>
+                <td class="text-end">{{model.amountPerPeriod}}</td>
+                
+              </tr>
+            </tbody>
+          </table>
+          <div class="d-flex flex-column justify-content-end">
+            <h6 class="text-end">Total Amount : <strong>  {{TotalAmount}}</strong> </h6><br>
+            <button type="button" class="btn btn-primary">Pay Now</button>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+</body>
+
+<!--update fee-->
+<div class="modal fade" id="updatefeetype1Modal" tabindex="-1" aria-labelledby="updatefeetype1Modal" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="updatefeetype1Modal">Add Discount And Additional Fee  </h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <form (ngSubmit)="updatefee1type()">
+          <div class="mb-3">
+            <label for="studentId" class="form-label">Confirm Student Id</label>
+            <input type="text" class="form-control" id="studentId" placeholder="Enter studentId" [(ngModel)]="upfee.studentId" name="studentId">
+          </div>
+          <div class="mb-3">
+            <label for="paymentPlanId" class="form-label">Fee Heading </label>
+            <input type="text" class="form-control" id="paymentPlanId" placeholder="Enter Fee Heading" [(ngModel)]="upfee.feeHeading" name="feeHeading">
+          </div>
+          <div class="mb-3">
+            <label for="discount" class="form-label">Discount</label>
+            <input type="text" class="form-control" id="discount" placeholder="Enter discount" [(ngModel)]="upfee.discount" name="discount">
+          </div>
+          <div class="mb-3">
+            <label for="additionalFee" class="form-label">Additional Fee </label>
+            <input type="text" class="form-control" id="additionalFee" placeholder="Enter additionalFee" [(ngModel)]="upfee.additionalFee" name="additionalFee">
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            <button type="submit" class="btn btn-primary" >update</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

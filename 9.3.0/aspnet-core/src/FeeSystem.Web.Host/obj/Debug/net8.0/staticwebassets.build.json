@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "PxgwDDp62jL3ASYZvNEe879SiXlNRf3e7ArwDkcihnk=",
+  "Source": "FeeSystem.Web.Host",
+  "BasePath": "_content/FeeSystem.Web.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FeeSystem.Web.Host/wwwroot",
+      "Source": "FeeSystem.Web.Host",
+      "ContentRoot": "/Users/priyanshacharya/Downloads/FeeSystemCom/9.3.0/aspnet-core/src/FeeSystem.Web.Host/wwwroot/",
+      "BasePath": "_content/FeeSystem.Web.Host",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/priyanshacharya/Downloads/FeeSystemCom/9.3.0/aspnet-core/src/FeeSystem.Web.Host/wwwroot/swagger/ui/abp.js",
+      "SourceId": "FeeSystem.Web.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/priyanshacharya/Downloads/FeeSystemCom/9.3.0/aspnet-core/src/FeeSystem.Web.Host/wwwroot/",
+      "BasePath": "_content/FeeSystem.Web.Host",
+      "RelativePath": "swagger/ui/abp.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/swagger/ui/abp.js"
+    },
+    {
+      "Identity": "/Users/priyanshacharya/Downloads/FeeSystemCom/9.3.0/aspnet-core/src/FeeSystem.Web.Host/wwwroot/swagger/ui/abp.swagger.js",
+      "SourceId": "FeeSystem.Web.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/priyanshacharya/Downloads/FeeSystemCom/9.3.0/aspnet-core/src/FeeSystem.Web.Host/wwwroot/",
+      "BasePath": "_content/FeeSystem.Web.Host",
+      "RelativePath": "swagger/ui/abp.swagger.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/swagger/ui/abp.swagger.js"
+    }
+  ]
+}
